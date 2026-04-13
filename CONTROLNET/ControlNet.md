@@ -37,3 +37,30 @@
 
 ![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/6fdfa03ca845595552ef57746d7675925e805650/CONTROLNET/tile/tmpjyrx11h9.png)
 
+## LineArt
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/LineArt/00014-3787852178.png)
+
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/LineArt/tmp5tn6sm33.png)
+
+## NormalMap
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/NormalMap/00018-731025350.png)
+
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/NormalMap/tmpqsleu_ge.png)
+
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/NormalMap/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-13%20144207.png)
+
+## Scribble
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/Scribble/00015-2587455764.png)
+
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/Scribble/tmp09nzv7cv.png)
+
+## Shuffle
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/Shuffle/00016-284201272.png)
+
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/Shuffle/tmpadw_w7f9.png)
+
+## SoftEdge
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/SoftEdge/00010-2414551531.png)
+
+![Image](https://raw.githubusercontent.com/rlatjsdn818/AI_Project_2026_01_3B/8e318762240488e401316979aed697ca7aa5d7f9/CONTROLNET/SoftEdge/tmp2shlkpia.png)
+
